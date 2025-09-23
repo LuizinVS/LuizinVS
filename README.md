@@ -19,7 +19,7 @@
 
 ## 📌 Sobre mim
 
-- 🎓 Estudando Ciência da Computaçãoe boas práticas com Spring.
+- 🎓 Estudando boas práticas com Spring.
 - ⚙️ Curioso por automações e boas práticas de clean code.
 - 📚 Atualmente aprendendo mais sobre **segurança em APIs REST**.
 - 💡 Interesses: APIs, Banco de dados.
