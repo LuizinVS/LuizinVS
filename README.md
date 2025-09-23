@@ -26,13 +26,6 @@
 
 ---
 
-## 📈 Estatísticas do GitHub
-
-![LuizinVS's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizinVSO&show_icons=true&theme=dark&hide_title=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizinVSO&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
 ## 📫 Como me encontrar
 
 - [LinkedIn](https://www.linkedin.com/in/luiz-vin%C3%ADcius-mariath-b044a52b8/)
