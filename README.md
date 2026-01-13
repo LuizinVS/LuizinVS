@@ -12,7 +12,7 @@
 
 ---
 
-### 🛠 Tecnologias e Ferramentas
+###  Tecnologias e Ferramentas
 
 **Back-end**
 <p align="left">
