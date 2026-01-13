@@ -9,7 +9,7 @@ Sou apaixonado por construir sistemas robustos e escaláveis. Atualmente, foco m
 
 ---
 
-### 🛠 Tecnologias e Ferramentas
+###  Tecnologias e Ferramentas
 
 **Back-end**
 <p align="left">
@@ -27,10 +27,10 @@ Sou apaixonado por construir sistemas robustos e escaláveis. Atualmente, foco m
 
 ---
 
-### 🚀 O que estou explorando agora:
-- 🔒 **Segurança:** Implementação de JWT e OAuth2 em APIs REST.
-- 🏗️ **Arquitetura:** Padrões de projeto e Clean Architecture.
-- ⚙️ **Automação:** Testes unitários com JUnit e Mockito.
+###  O que estou explorando agora:
+-  **Segurança:** Implementação de JWT e OAuth2 em APIs REST.
+-  **Arquitetura:** Padrões de projeto e Clean Architecture.
+-  **Automação:** Testes unitários com JUnit e Mockito.
 
 ---
 
