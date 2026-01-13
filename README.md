@@ -1,9 +1,3 @@
-Aqui está o seu README reformulado exatamente como você pediu: centralizado, com os novos temas de estudo, badges limpos e o novo link de estatísticas.
-
-Copie e cole este código no seu README.md:
-
-Markdown
-
 <h1 align="center">Olá, eu sou o Luiz Vinícius!</h1>
 
 <p align="center">
