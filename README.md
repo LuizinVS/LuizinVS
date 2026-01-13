@@ -2,7 +2,7 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/Estudante%20de%20Ciência%20da%20Computação-blue?style=flat-square">
-  <img src="https://img.shields.io/badge/Foco-Back--End%20(Java%20%2B%20Spring)-green?style=flat-square">
+  <img src="https://img.shields.io/badge/Back--End%20(Java%20%2B%20Spring)-green?style=flat-square">
 </p>
 
 Sou apaixonado por construir sistemas robustos e escaláveis. Atualmente, foco meus estudos no ecossistema **Java**, explorando segurança em APIs e as melhores práticas de **Clean Code**.
