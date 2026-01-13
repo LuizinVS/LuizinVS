@@ -35,11 +35,12 @@ Sou apaixonado por construir sistemas robustos e escaláveis. Atualmente, foco m
 ---
 
 ### 📊 Estatísticas
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuizinVS&show_icons=true&theme=default&include_all_commits=true&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizinVS&layout=compact&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuizinVS&show_icons=true&theme=default&include_all_commits=true&count_private=true&cache_seconds=21600)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LuizinVS)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizinVS&layout=compact&theme=default&cache_seconds=21600)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=LuizinVS)
 
 ---
 
