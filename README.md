@@ -1,36 +1,51 @@
 # Olá, eu sou o Luiz Vinícius! 👋
 
-🎓 Estudante de Ciência da Computação  
-🎯 Desenvolvedor Back-End com foco em **Java + Spring Boot** e APIs REST.  
-🛠️ Experiência com **MySQL** e modelagem no **MySQL Workbench**.  
-🌐 Conhecimentos básicos em **Angular** para front-end.  
-🚀 Sempre buscando aprimorar minhas habilidades e aprender novas tecnologias.
+<p align="left">
+  <img src="https://img.shields.io/badge/Status-Estudante%20de%20Ciência%20da%20Computação-blue?style=flat-square">
+  <img src="https://img.shields.io/badge/Foco-Back--End%20(Java%20%2B%20Spring)-green?style=flat-square">
+</p>
 
-## 🧰 Tecnologias e Ferramentas
-
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
-![REST API](https://img.shields.io/badge/-REST-00599C?logo=apache&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
-![Workbench](https://img.shields.io/badge/-MySQL%20Workbench-4479A1?logo=mysql&logoColor=white)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
-
-## 📌 Sobre mim
-
-- 🎓 Estudando boas práticas com Spring.
-- ⚙️ Curioso por automações e boas práticas de clean code.
-- 📚 Atualmente aprendendo mais sobre **segurança em APIs REST**.
-- 💡 Interesses: APIs, Banco de dados.
+Sou apaixonado por construir sistemas robustos e escaláveis. Atualmente, foco meus estudos no ecossistema **Java**, explorando segurança em APIs e as melhores práticas de **Clean Code**.
 
 ---
 
-## 📫 Como me encontrar
+### 🛠 Tecnologias e Ferramentas
 
-- [LinkedIn](https://www.linkedin.com/in/luiz-vin%C3%ADcius-mariath-b044a52b8/)
-- Email: luiz.mariath3@gmail.com
+**Back-end**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,mysql,hibernate" />
+  </a>
+</p>
+
+**Front-end & Ferramentas**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=angular,git,maven,vscode" />
+  </a>
+</p>
 
 ---
 
-⭐ Obrigado por visitar meu perfil!
+### 🚀 O que estou explorando agora:
+- 🔒 **Segurança:** Implementação de JWT e OAuth2 em APIs REST.
+- 🏗️ **Arquitetura:** Padrões de projeto e Clean Architecture.
+- ⚙️ **Automação:** Testes unitários com JUnit e Mockito.
+
+---
+
+### 📊 Estatísticas
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizinVS&show_icons=true&theme=visual_studio_code&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizinVS&layout=compact&langs_count=7&theme=visual_studio_code"/>
+</p>
+
+---
+
+### 📫 Conecte-se comigo
+<p align="left">
+<a href="https://linkedin.com/in/SEU-USUARIO-AQUI" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="mailto:luiz.mariath3@gmail.com"><img src="https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white" target="_blank"></a>
+</p>
+
+⭐️ *Obrigado por visitar meu perfil!*
