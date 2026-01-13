@@ -1,15 +1,15 @@
 # Olá, eu sou o Luiz Vinícius! 👋
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Estudante%20de%20Ciência%20da%20Computação-blue?style=flat-square">
-  <img src="https://img.shields.io/badge/Back--End%20(Java%20%2B%20Spring)-green?style=flat-square">
+  <img src="https://img.shields.io/badge/Estudante-Ciência%20da%20Computação-blue?style=flat-square">
+  <img src="https://img.shields.io/badge/Back--End-Java%20%2B%20Spring-green?style=flat-square">
 </p>
 
 Sou apaixonado por construir sistemas robustos e escaláveis. Atualmente, foco meus estudos no ecossistema **Java**, explorando segurança em APIs e as melhores práticas de **Clean Code**.
 
 ---
 
-###  Tecnologias e Ferramentas
+### 🛠 Tecnologias e Ferramentas
 
 **Back-end**
 <p align="left">
@@ -27,27 +27,34 @@ Sou apaixonado por construir sistemas robustos e escaláveis. Atualmente, foco m
 
 ---
 
-###  O que estou explorando agora:
--  **Segurança:** Implementação de JWT e OAuth2 em APIs REST.
--  **Arquitetura:** Padrões de projeto e Clean Architecture.
--  **Automação:** Testes unitários com JUnit e Mockito.
+### 🚀 O que estou explorando agora:
+- 🔒 **Segurança:** Implementação de JWT e OAuth2 em APIs REST.
+- 🏗️ **Arquitetura:** Padrões de projeto e Clean Architecture.
+- ⚙️ **Automação:** Testes unitários com JUnit e Mockito.
 
 ---
 
 ### 📊 Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuizinVS&show_icons=true&theme=default&include_all_commits=true&count_private=true&cache_seconds=21600)
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizinVS&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizinVS&layout=compact&langs_count=7&theme=dracula" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizinVS&layout=compact&theme=default&cache_seconds=21600)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=LuizinVS)
+<p align="left">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=LuizinVS&theme=dracula" />
+</p>
 
 ---
 
 ### 📫 Conecte-se comigo
 <p align="left">
-<a href="https://linkedin.com/in/SEU-USUARIO-AQUI" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href="mailto:luiz.mariath3@gmail.com"><img src="https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white" target="_blank"></a>
+  <a href="https://linkedin.com/in/SEU-USUARIO-AQUI" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a> 
+  <a href="mailto:luiz.mariath3@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white">
+  </a>
 </p>
 
-⭐️ *Obrigado por visitar meu perfil!*
+<p align="center">⭐️ Obrigado por visitar meu perfil!</p>
