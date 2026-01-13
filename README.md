@@ -1,7 +1,7 @@
 # Olá, eu sou o Luiz Vinícius! 👋
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Status-Estudante%20de%20Ciência%20da%20Computação-blue?style=flat-square">
+  <img src="https://img.shields.io/badge/Estudante%20de%20Ciência%20da%20Computação-blue?style=flat-square">
   <img src="https://img.shields.io/badge/Foco-Back--End%20(Java%20%2B%20Spring)-green?style=flat-square">
 </p>
 
