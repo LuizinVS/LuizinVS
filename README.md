@@ -1,11 +1,20 @@
-# Olá, eu sou o Luiz Vinícius! 👋
+Aqui está o seu README reformulado exatamente como você pediu: centralizado, com os novos temas de estudo, badges limpos e o novo link de estatísticas.
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Estudante-Ciência%20da%20Computação-blue?style=flat-square">
-  <img src="https://img.shields.io/badge/Back--End-Java%20%2B%20Spring-green?style=flat-square">
+Copie e cole este código no seu README.md:
+
+Markdown
+
+<h1 align="center">Olá, eu sou o Luiz Vinícius!</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Ciências%20da%20Computação-blue?style=flat-square">
+  <img src="https://img.shields.io/badge/Java%20%26%20Spring-green?style=flat-square">
+  <img src="https://img.shields.io/badge/MySQL-orange?style=flat-square">
 </p>
 
-Sou apaixonado por construir sistemas robustos e escaláveis. Atualmente, foco meus estudos no ecossistema **Java**, explorando segurança em APIs e as melhores práticas de **Clean Code**.
+<p align="center">
+  Sou apaixonado por construir sistemas robustos e escaláveis. Atualmente, foco meus estudos no ecossistema <strong>Java</strong>, explorando segurança em APIs e as melhores práticas de <strong>Clean Code</strong>.
+</p>
 
 ---
 
@@ -14,40 +23,36 @@ Sou apaixonado por construir sistemas robustos e escaláveis. Atualmente, foco m
 **Back-end**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,mysql,hibernate" />
+    <img src="https://skillicons.dev/icons?i=java,spring,mysql,hibernate,maven" />
   </a>
 </p>
 
 **Front-end & Ferramentas**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,git,maven,vscode" />
+    <img src="https://skillicons.dev/icons?i=angular,git,vscode,postman,docker" />
   </a>
 </p>
 
 ---
 
-### 🚀 O que estou explorando agora:
-- 🔒 **Segurança:** Implementação de JWT e OAuth2 em APIs REST.
-- 🏗️ **Arquitetura:** Padrões de projeto e Clean Architecture.
-- ⚙️ **Automação:** Testes unitários com JUnit e Mockito.
+###  O que estou explorando agora:
+- Arquitetura em camadas
+- Testes unitários com JUnit
+- Java Spring
+- Segurança: Implementação de JWT e OAuth2 em APIs REST
 
 ---
 
-### 📊 Estatísticas
+###  Estatísticas
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizinVS&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizinVS&layout=compact&langs_count=7&theme=dracula" />
-</p>
-
-<p align="left">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=LuizinVS&theme=dracula" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=LuizinVS&layout=compact&theme=dracula&hide_border=false" />
 </p>
 
 ---
 
-### 📫 Conecte-se comigo
+###  Conecte-se comigo
 <p align="left">
   <a href="https://www.linkedin.com/in/luiz-vinícius-mariath-b044a52b8" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -57,4 +62,4 @@ Sou apaixonado por construir sistemas robustos e escaláveis. Atualmente, foco m
   </a>
 </p>
 
-<p align="center">⭐️ Obrigado por visitar meu perfil!</p>
+<p align="center">Obrigado por visitar meu perfil!</p>
