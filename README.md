@@ -8,6 +8,9 @@
   </a>
 </p>
 
+### About me
+I am a Back-end Developer currently studying at **FURB** in Blumenau, Brazil. I am focused on building scalable and efficient systems, constantly improving my technical skills. Currently, I am deepening my knowledge in **Layered Architecture**, **Microservices**, and **Unit Testing with JUnit**.
+
 ---
 
 ### Back-end
