@@ -3,7 +3,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuizinVS&theme=dark" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=LuizinVS&theme=dark&card_width=600" alt="GitHub Streak" />
 </p>
 
 ---
