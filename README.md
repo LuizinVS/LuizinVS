@@ -38,13 +38,16 @@
 
 ---
 
-###  Estatísticas
+### Estatísticas
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuizinVS&theme=dark" />
+</p>
 
 <p align="left">
   <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=LuizinVS&layout=compact&theme=dracula&hide_border=false" />
-
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=LuizinVS&theme=dark" alt="GitHub Streak" /></a>
 </p>
+
 
 ---
 
