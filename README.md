@@ -9,13 +9,13 @@
 </p>
 
 ### About me
-I am a Back-end Developer currently studying at **FURB** in Blumenau, Brazil. I am focused on building scalable and efficient systems, constantly improving my technical skills. Currently, I am deepening my knowledge in **Layered Architecture**, **Microservices**, and **Unit Testing with JUnit**.
+I am a 20-year-old **Computer Science** student at **FURB** in Blumenau, Brazil, and a Back-end Developer. I am focused on building scalable and efficient systems, constantly improving my technical skills. Currently, I am deepening my knowledge in **Layered Architecture**, **Microservices**, and **Unit Testing with JUnit**.
 
 ---
 
 ### Back-end
 <div align="left">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
   <img src="https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
 </div>
