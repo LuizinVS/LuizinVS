@@ -2,10 +2,7 @@
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=LuizinVS&theme=great-gatsby&locale=pt_BR)](https://git.io/streak-stats)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuizinVS&show_icons=true&theme=great-gatsby)
-
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LuizinVS&theme=github-dark)
 
 
 ### About me
