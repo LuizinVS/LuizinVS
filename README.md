@@ -4,13 +4,6 @@
 
 <img src="https://streak-stats.demolab.com?user=LuizinVS" />
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=LuizinVS&theme=great-gatsby&hide_border=false"
-    alt="GitHub Streak Stats"
-  />
-</p>
-
 ### About me
 I am a 20-year-old **Computer Science** student at **FURB** in Blumenau, Brazil, and a Back-end Developer. I am focused on building scalable and efficient systems, constantly improving my technical skills. Currently, I am deepening my knowledge in **Layered Architecture**, **Microservices**, and **Unit Testing with JUnit**.
 
