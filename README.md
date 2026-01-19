@@ -4,8 +4,8 @@
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=LuizinVS&theme=great-gatsby"
-    alt="GitHub Streak"
+    src="https://streak-stats.demolab.com?user=LuizinVS&theme=great-gatsby&hide_border=false"
+    alt="GitHub Streak Stats"
   />
 </p>
 
