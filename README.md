@@ -2,6 +2,8 @@
 
 ---
 
+<img src="https://streak-stats.demolab.com?user=LuizinVS" />
+
 <p align="center">
   <img
     src="https://streak-stats.demolab.com?user=LuizinVS&theme=great-gatsby&hide_border=false"
