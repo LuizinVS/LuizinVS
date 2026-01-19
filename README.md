@@ -3,10 +3,12 @@
 ---
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=LuizinVS&theme=great-gatsby"
-    alt="GitHub Streak Stats"
-  />
+  <a href="https://git.io/streak-stats">
+    <img
+      src="https://streak-stats.demolab.com?user=LuizinVS&theme=great-gatsby&locale=pt_BR"
+      alt="GitHub Streak"
+    />
+  </a>
 </p>
 
 ### About me
