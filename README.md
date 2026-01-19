@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=LuizinVS&theme=great-gatsby&card_width=600&card_height=220" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=LuizinVS&theme=great-gatsby" alt="GitHub Streak" />
   </a>
 </p>
 
