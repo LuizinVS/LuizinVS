@@ -10,9 +10,9 @@ I am a 20-year-old **Computer Science** student at **FURB** in Blumenau, Brazil,
 
 ## Projects I'm Working On
 
-| Project Name       | Link |
-|------------------|------|
-| AutoCare Scheduler       | [GitHub](https://github.com/LuizinVS/autocare-scheduler) |
+| Project Name       | Link | Description |
+|------------------|------|-------------|
+| AutoCare Scheduler       | [GitHub](https://github.com/LuizinVS/autocare-scheduler) | Auto service scheduler API – Spring Boot, Java, MySQL
 
 ---
 
