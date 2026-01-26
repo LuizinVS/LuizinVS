@@ -2,9 +2,6 @@
 
 ---
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LuizinVS&theme=github-dark)
-
-
 ### About me
 I am a 20-year-old **Computer Science** student at **FURB** in Blumenau, Brazil, and a Back-end Developer. I am focused on building scalable and efficient systems, constantly improving my technical skills. Currently, I am deepening my knowledge in **Layered Architecture**, **Microservices**, and **Unit Testing with JUnit**.
 
@@ -40,6 +37,10 @@ I am a 20-year-old **Computer Science** student at **FURB** in Blumenau, Brazil,
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </div>
+
+---
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LuizinVS&theme=github-dark)
 
 ---
 
